@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yilmazahmetyilmaz61@gmail.com**
 
-- 📄 Know about my experiences [https://www.ahmetyilmazç.site/hakkimda](https://www.ahmetyilmazç.site/hakkimda)
+- 📄 Know about my experiences [https://www.ahmetyilmaz.site/](https://www.ahmetyilmaz.site/hakkimda)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -18,7 +18,6 @@
 <a href="https://codepen.io/yilmazahmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yilmazahmet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmtyilmazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmtyilmazz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ahmet-yilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmet-yilmaz" height="30" width="40" /></a>
-<a href="https://fb.com/1ahmetyilmaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1ahmetyilmaz/" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmetylmz.61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetylmz.61/" height="30" width="40" /></a>
 </p>
 

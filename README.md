@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript and Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://www.ahmetyilmaz.site/portfoy](https://www.ahmetyilmaz.site/portfoy)
+- 👨‍💻 All of my projects are available at [https://www.ahmetyilmaz.site/portfoy](https://www.ahmetyilmaz.site/portfoy) &  [https://www.koduzmani.com/projelerimiz](https://www.koduzmani.com/projelerimiz)
 
 - 💬 Ask me about **HTML · CSS · BOOTSTRAP · JS · TAILWIND**
 

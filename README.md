@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Yılmaz</h1>
-<h3 align="center">Front-End Developer at Turkey</h3>
+<h3 align="center">Front-End Developer & Co-Founder koduzmani.com at Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yilmazahmet&label=Profile%20views&color=0e75b6&style=flat" alt="yilmazahmet" /> </p>
 

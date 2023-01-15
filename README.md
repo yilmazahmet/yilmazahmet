@@ -27,4 +27,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="buymeacoffee.com/?via=ahmetyilmaz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ahmetyilmaz" /></a></p><br><br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yilmazahmet&show_icons=true&locale=en" alt="yilmazahmet" /></p>
+

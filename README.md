@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Javascript and Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://www.ahmetyilmaz.site/portfoy](https://www.ahmetyilmaz.site/portfoy) &  [https://www.koduzmani.com/projelerimiz](https://www.koduzmani.com/projelerimiz)
+- 👨‍💻 All of my projects are available at [https://www.ahmetylmz.site/portfoy](https://www.ahmetylmz.site/portfoy) &  [https://www.koduzmani.com/projelerimiz](https://www.koduzmani.com/projelerimiz)
 
 - 💬 Ask me about **HTML · CSS · BOOTSTRAP · JS · TAILWIND**
 
 - 📫 How to reach me **yilmazahmetyilmaz61@gmail.com**
 
-- 📄 Know about my experiences [https://www.ahmetyilmaz.site/hakkimda](https://www.ahmetyilmaz.site/hakkimda)
+- 📄 Know about my experiences [https://www.ahmetylmz.site/hakkimda](https://www.ahmetyilmaz.site/hakkimda)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

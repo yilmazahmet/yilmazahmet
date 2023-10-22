@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yilmazahmet&label=Profile%20views&color=0e75b6&style=flat" alt="yilmazahmet" /> </p>
 
-- 🌱 I’m currently learning **Javascript and Tailwind**
+- 🌱 I’m currently learning **REACT.JS**
 
 - 👨‍💻 All of my projects are available at [https://www.koduzmani.com/projelerimiz](https://www.koduzmani.com/projelerimiz)
 

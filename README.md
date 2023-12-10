@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACT.JS**
 
-- 👨‍💻 All of my projects are available at [https://www.koduzmani.com/projelerimiz](https://www.koduzmani.com/projelerimiz)
+- 👨‍💻 All of my projects are available at [https://www.ahmetylmz.site/](https://www.ahmetylmz.site/) & [https://www.koduzmani.site/](https://www.koduzmani.site)
 
 - 💬 Ask me about **HTML · CSS · BOOTSTRAP · JS · TAILWIND**
 

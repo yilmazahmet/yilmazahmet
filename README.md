@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ahmetylmz.site/](https://www.ahmetylmz.site/) & [https://www.koduzmani.site/](https://www.koduzmani.site)
 
-- 💬 Ask me about **HTML · CSS · BOOTSTRAP · JS · TAILWIND**
+- 💬 Ask me about **HTML · CSS · BOOTSTRAP · JS · REACT.JS**
 
 - 📫 How to reach me **yilmazahmetyilmaz61@gmail.com**
 

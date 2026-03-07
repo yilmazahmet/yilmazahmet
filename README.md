@@ -59,11 +59,7 @@
 
 ###
 
-<h3 align="left">https://www.ahmetylmz.site</h3>
-
-###
-
-<h3 align="left">https://www.koduzmani.site</h3>
+<h3 align="left">https://www.koduzmani.com</h3>
 
 ###
 
